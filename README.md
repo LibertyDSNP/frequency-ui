@@ -1,2 +1,2 @@
-# mrc-ui
-UI for MRC
+# frequency-ui
+UI for Frequency
